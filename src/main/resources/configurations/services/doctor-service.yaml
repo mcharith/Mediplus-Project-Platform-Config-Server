@@ -1,0 +1,19 @@
+spring:
+  mvc:
+    problemdetails:
+      enabled: true
+
+  mongodb:
+    host: localhost
+    port: 13500
+    database: medi-plus
+    username: root
+    password: mongodb
+    authentication-database: admin
+
+server:
+  port: 8001
+
+eureka:
+  instance:
+    instanceId: ${spring.application.name}:${vcap.application.instance_id:${spring.application.instance_id:${random.value}}}
