@@ -9,7 +9,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/mcharith/Mediplus-Project-Configurations.git
+          uri: https://github.com/mcharith/Mediplus-Project-Configurations
           search-paths: platform,services
         native:
           search-locations:
