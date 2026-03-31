@@ -7,6 +7,15 @@ It serves configuration properties to all registered services from a single sour
 
 ---
 
+## 👤 Student Information
+
+- **Student Name:** Charith Mihiranga Siriwardana
+- **Student Number:** 2301691075
+- **Slack:** https://ijse-eca-hdse-69-70.slack.com/team/U0AHD5TQ4H5
+- **GCP Project ID:** ts-2130-eca-gdse-491417
+
+---
+
 ## 📖 About
 
 The Config-Server is a core component of the microservice architecture, responsible for managing and distributing configuration across all services.  
